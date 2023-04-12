@@ -14,6 +14,7 @@
 		F9055C7329E58C2C00D6067A /* ImageCardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9055C7229E58C2C00D6067A /* ImageCardTests.swift */; };
 		F9055C7D29E58C2C00D6067A /* ImageCardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9055C7C29E58C2C00D6067A /* ImageCardUITests.swift */; };
 		F9055C7F29E58C2C00D6067A /* ImageCardUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9055C7E29E58C2C00D6067A /* ImageCardUITestsLaunchTests.swift */; };
+		F9055C8C29E591A000D6067A /* ImageCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9055C8B29E591A000D6067A /* ImageCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		F9055C7829E58C2C00D6067A /* ImageCardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ImageCardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9055C7C29E58C2C00D6067A /* ImageCardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCardUITests.swift; sourceTree = "<group>"; };
 		F9055C7E29E58C2C00D6067A /* ImageCardUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCardUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F9055C8B29E591A000D6067A /* ImageCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				F9055C6029E58C2A00D6067A /* ImageCardApp.swift */,
 				F9055C6229E58C2A00D6067A /* ContentView.swift */,
+				F9055C8B29E591A000D6067A /* ImageCard.swift */,
 				F9055C6429E58C2C00D6067A /* Assets.xcassets */,
 				F9055C6629E58C2C00D6067A /* ImageCard.entitlements */,
 				F9055C6729E58C2C00D6067A /* Preview Content */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F9055C6329E58C2A00D6067A /* ContentView.swift in Sources */,
+				F9055C8C29E591A000D6067A /* ImageCard.swift in Sources */,
 				F9055C6129E58C2A00D6067A /* ImageCardApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
